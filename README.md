@@ -18,6 +18,5 @@ It uses **H2 in-memory database** and **Spring Data JPA** for persistence.
 - Spring Web / REST
 - Bean Validation (JSR-380)
 - Maven for build
-- Optional: Lombok (or manually generated getters/setters)
 
 ---
